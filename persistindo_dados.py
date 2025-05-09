@@ -3,7 +3,7 @@
 from sqlalchemy import create_engine, Table, Column, Integer, String, MetaData, insert, text
 
 username = "root" 
-password = "Wd49845371#"  
+password = "suasenha"  
 host = "localhost"  
 port = 3306  
 database = "banco_de_sangue"  
